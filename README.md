@@ -11,7 +11,7 @@ powershell -c "irm https://dria.co/launcher.ps1 | iex"
 
 This will promt u to enter your evm Private keys (without 0x) and Models!
 
-
+```
 dkn-compute-launcher.exe start
 ```
 
@@ -28,9 +28,12 @@ sudo dkn-compute-launcher referrals
 
 Use Up - down Keys to select "Enter referral code to be referred" and Enter The Refer Code-👇
 
- ```
- U can Use  Refer Code - 5kP8Cmc0kAWU7xWWhbm5
+ 
+ U can Use  Refer Code
 
+```
+ 5kP8Cmc0kAWU7xWWhbm5
+```
 
 
 You Can check Your Node status from here-👇 (Enter Your Wallet Address)
